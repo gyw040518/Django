@@ -12,4 +12,6 @@ FLUSH PRIVILEGES;
 python manage.py makemigrations    
 python manage.py migrate    
 5、创建超级管理员：python manage.py createsuperuser    
-6、服务运行：python manage.py runserver
+6、服务运行：python manage.py runserver  
+![image](https://github.com/gyw040518/Django/blob/master/screenshots/admin-login.png)
+![image](https://github.com/gyw040518/Django/blob/master/screenshots/admin-logined.png)
