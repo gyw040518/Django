@@ -1,4 +1,4 @@
-# Django
+# Django   
 Django学习
 一、软件环境：python2.7，django1.7.6
 二、常用命令：
