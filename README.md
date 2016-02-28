@@ -1,5 +1,5 @@
 # Django   
-Django学习
+Django学习   
 一、软件环境：python2.7，django1.7.6
 二、常用命令：
 1、新建工程：django-admin.py startproject project-name
